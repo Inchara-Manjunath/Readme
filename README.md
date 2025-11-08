@@ -20,6 +20,6 @@ Currently exploring **Angular** and **Next.js** to expand my frontend skills.
 ---
 
 ### 📫 Connect With Me
-[LinkedIn](www.linkedin.com/in/inchara-m) | [Email](incharamanjunath0808@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/inchara-m) | [Email](incharamanjunath0808@gmail.com)
 
 ⭐️ *“Code. Learn. Repeat.”*  
