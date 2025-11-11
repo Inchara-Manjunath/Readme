@@ -8,14 +8,14 @@ Currently exploring **Angular** and **Next.js** to expand my frontend skills.
 ---
 
 ### 🚀 My Projects  
-🔹 [E-commerce Website](https://github.com/Inchara-Manjunath/E-Commerce-Website.git) – React + Node + SQLlite  
-🔹 [Chatbot Web App](https://github.com/Inchara-Manjunath/chatbot-web-app.git) – React + API Integration  
-🔹 [Movie Finder App](https://github.com/Inchara-Manjunath/Movie-Finder-App.git) – React + OMDB API  
+🔹 [E-commerce Website](https://github.com/Inchara-Manjunath/E-Commerce-Website.git) [Demo](https://e-commerce-website-1-th9o.onrender.com)– React + Node + SQLlite  
+🔹 [Chatbot Web App] (https://github.com/Inchara-Manjunath/chatbot-web-app.git) [Demo](https://simple-chatbot1.netlify.app/) – React + API Integration  
+🔹 [Movie Finder App](https://github.com/Inchara-Manjunath/Movie-Finder-App.git) [Demo](https://movie-finder1.netlify.app) – React + TMDB API  
 
 ---
 
 ### 🛠️ Tech Stack
-`React.js` · `JavaScript` · `HTML5` · `CSS3` · `Tailwind CSS` · `Node.js` · `Git` · `GitHub`
+`React.js` · `JavaScript` · `HTML5` · `CSS3` · `Node.js` · `Git` · `GitHub`
 
 ---
 
