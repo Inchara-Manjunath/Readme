@@ -14,6 +14,8 @@ Currently exploring **Angular** and **Next.js** to expand my frontend skills.
 
 🔹 [Movie Finder App](https://github.com/Inchara-Manjunath/Movie-Finder-App.git) – React + TMDB API - [Demo](https://movie-finder1.netlify.app) 
 
+🔹 [IncharaPortfolio](https://github.com/Inchara-Manjunath/Inchara-Portfolio.git) – React - [Demo](https://inchara-portfolio.onrender.com) 
+
 ---
 
 ### 🛠️ Tech Stack
